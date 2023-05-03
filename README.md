@@ -12,3 +12,6 @@ and to keep it active - used uptime robot
 
 bot name -> 
 swetanshu_elitmus_bot
+
+search on telegram search as ->
+swetanshu_elitmus_bot
